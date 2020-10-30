@@ -1,0 +1,10 @@
+{
+  "name": "ts-json-parser",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Dan Beaven <dm.beaven@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "typescript": "^4.1.0-dev.20201030"
+  }
+}
